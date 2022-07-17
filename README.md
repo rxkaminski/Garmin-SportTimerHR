@@ -3,6 +3,8 @@ SportTimeHR is application for Garmin sport watches to recording activity for sp
 - Weight training
 - Squash
 
+# !!!! Code will be committed after Garmin Company approved. !!!
+
 ## Used 
 Monkey C language.
 
