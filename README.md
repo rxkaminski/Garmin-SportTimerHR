@@ -3,7 +3,11 @@ SportTimeHR is application for Garmin sport watches to recording activity for sp
 - Weight training
 - Squash
 
-# Supported Garmin Devices (sport watches)
+## Used 
+Monkey C language.
+
+
+## Supported Garmin Devices (sport watches)
 - Forerunner® 230
 - Forerunner® 235
 - Forerunner® 630
@@ -22,6 +26,15 @@ This app requires access to:
 - FIT files (activity recordings)
 - Record additional information into activity files
 - Sensor data (i.e., ANT+, heart rate, compass)
+
+
+## Displayed on  screen:
+- status (Ready, Started, Stopped, Saved),
+- training time,
+- current time,
+- heart rate,
+- counter (number on right site),
+- current sport,
 
 ## Screenshots
 
