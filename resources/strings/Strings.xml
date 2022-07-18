@@ -1,0 +1,24 @@
+<strings>
+    <string id="AppName">SportTimerHr</string>
+    
+    <string id="ZerosLabel">00:00:00</string>
+    <string id="NoneLabel">- - -</string>
+
+    <string id="ReadyLabel">Ready</string>
+    <string id="StartedLabel">Started</string>
+    <string id="StoppedLabel">Stopped</string>
+    <string id="SavedLabel">Saved</string>
+
+    <string id="WeightTrainingLabel">Weight Training</string>
+    <string id="SquashLabel">Squash</string>
+
+    <string id="SelectSportLabel">Select sport</string>
+    <string id="ExitLabel">Exit</string>
+
+    <string id="NoLabel">No</string>
+    <string id="YesLabel">Yes</string>
+
+    <string id="ResumeLabel">Resume</string>
+    <string id="SaveLabel">Save</string>
+    <string id="DiscardLabel">Discard</string>
+</strings>

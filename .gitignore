@@ -1,0 +1,8 @@
+# Build results
+[bB]in/
+*.prg
+*.prg.debug.xml
+
+# Garmin publish file iq results
+[pP]ublish/
+*.iq

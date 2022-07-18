@@ -1,0 +1,5 @@
+<menu id="ResumeSaveDiscardMenu">
+    <menu-item id="resumeMenuItem" label="@Strings.ResumeLabel" />
+    <menu-item id="saveMenuItem" label="@Strings.SaveLabel" />
+    <menu-item id="discardMenuItem" label="@Strings.DiscardLabel" />    
+</menu>

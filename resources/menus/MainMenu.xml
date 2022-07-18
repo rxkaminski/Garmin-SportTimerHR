@@ -1,0 +1,4 @@
+<menu id="MainMenu">
+    <menu-item id="selectSportMenuItem" label="@Strings.SelectSportLabel" />
+    <menu-item id="exitMenuItem" label="@Strings.ExitLabel" />
+</menu>

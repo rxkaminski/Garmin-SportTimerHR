@@ -1,0 +1,8 @@
+<layout id="MainLayout">
+    <label id="statusValue" x="center" y="5%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" text="@Strings.NoneLabel"></label>
+    <label id="timerTimeValue" x="center" y="20%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" text="@Strings.NoneLabel" font="Gfx.FONT_LARGE"></label>
+    <label id="clockTimeValue" x="center" y="40%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" text="@Strings.NoneLabel" font="Gfx.FONT_LARGE"></label>
+    <label id="hrValue" x="center" y="60%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" text="@Strings.NoneLabel" font="Gfx.FONT_LARGE"></label>
+    <label id="lapsCountValue" x="180" y="75%" justification="Graphics.TEXT_JUSTIFY_LEFT" color="0xFFFFFF" text="0" font="Gfx.FONT_SMALL"></label>
+    <label id="sportNameValue" x="center" y="85%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" text="@Strings.NoneLabel"></label>
+</layout>

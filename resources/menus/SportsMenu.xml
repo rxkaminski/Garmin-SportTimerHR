@@ -1,0 +1,4 @@
+<menu id="SportsMenu">
+    <menu-item id="weightTrainingMenuItem" label="@Strings.WeightTrainingLabel" />
+    <menu-item id="squashMenuItem" label="@Strings.SquashLabel" />
+</menu>
