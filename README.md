@@ -1,5 +1,5 @@
 # SportTimerHR
-![icon](resources\drawables\launcher_icon.png)
+![icon](resources/drawables/launcher_icon.png)
 
 SportTimerHR is application for Garmin sport watches to recording activity for sport (currently version):
 - Weight training
